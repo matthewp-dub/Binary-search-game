@@ -1,3 +1,5 @@
+# ATTENTION: This is an old version without the "game". Please see that GameMain file.
+
 # variables
 array = []
 goal = 0
